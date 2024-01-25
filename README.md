@@ -13,7 +13,7 @@ I am **Data Scientist**. I love problem solving, developing Machine Learning mod
 - 💬 Ask me about anything you think I can help!
 
 
-## Where do I come from
+## Where do I come from?
 Just for giving you some background from me, these are some info regarding my trajectory until the moment 🤓:
 - 📚 I have a bachelor in **Psychology**, that is why I love everything related with how the people behaves.
   
@@ -25,18 +25,34 @@ Just for giving you some background from me, these are some info regarding my tr
 
 
 ## 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/saraalvarezgonzalez/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="Sara Alvarez Gonzalez | LinkedIn" width="35px"/></a>
-<a href="mailto:saraalvarezglez@gmail.com"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/2993691_brand_brands_gmail_logo_logos_icon.png" alt="Sara Alvarez Gonzalez | Gmail" width="35px"/></a>
+<a href="https://www.linkedin.com/in/saraalvarezgonzalez/"><img align="left" src="icons/linkedin.png" alt="Sara Alvarez Gonzalez | LinkedIn" width="35px"/></a>
+<a href="mailto:saraalvarezglez@gmail.com"><img align="left" src="icons/gmail.png" alt="Sara Alvarez Gonzalez | Gmail" width="35px"/></a>
 </br>
 </br>
 
 ## 💼 Technical Skills
 ### Coding: 
-Python (Pyspark), R
+![Static Badge](https://img.shields.io/badge/coding-python-blue)
+![Static Badge](https://img.shields.io/badge/coding-R-blue)
+
 ### Programing tools:
-Azure Databricks, DVC, Bitbucket, Jira, Tensorflow
+![Static Badge](https://img.shields.io/badge/programming%20tools-Azure%20Databricks-orange)
+![Static Badge](https://img.shields.io/badge/programming%20tools-DVC-orange)
+![Static Badge](https://img.shields.io/badge/programming%20tools-Bitbucket-orange)
+![Static Badge](https://img.shields.io/badge/programming%20tools-Jira-orange)
+![Static Badge](https://img.shields.io/badge/programming%20tools-Tensorflow-orange)
+![Static Badge](https://img.shields.io/badge/programming%20tools-Pyspark-orange)
+
 ### Experience in Machine Learning problems:
-- **Classification** and **regression** problems with Artificial Neural Networks, Genetical algorithm, XGBoost, Random Forest
-- **Time Series** using ARIMA, MLForecast
-- **Forecasting** applying LSTM, LSTM+Autoencoder
-- *FUTURE PROJECTS ON* **Image detection** by Convolutional Neural Networks
+- **Classification** and **regression** problems with 
+![Static Badge](https://img.shields.io/badge/ML-Artificial%20Neural%20Networks-green)
+![Static Badge](https://img.shields.io/badge/ML-Genetical%20algorithm-green)
+![Static Badge](https://img.shields.io/badge/ML-XGBoost-green)
+![Static Badge](https://img.shields.io/badge/ML-Random%Forest-green)
+- **Time Series** using 
+![Static Badge](https://img.shields.io/badge/ML-ARIMA-green)
+![Static Badge](https://img.shields.io/badge/ML-MLForecast-green)
+- **Forecasting** applying 
+![Static Badge](https://img.shields.io/badge/ML-LSTM-green)
+![Static Badge](https://img.shields.io/badge/ML-LSTM+Autoencoder-green)
+- *FUTURE PROJECTS ON* **Image detection** by ![Static Badge](https://img.shields.io/badge/ML-Convolutional%20Neural%20Networks-green)
