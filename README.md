@@ -48,7 +48,7 @@ Just for giving you some background from me, these are some info regarding my tr
 ![Static Badge](https://img.shields.io/badge/ML-Artificial%20Neural%20Networks-green)
 ![Static Badge](https://img.shields.io/badge/ML-Genetical%20algorithm-green)
 ![Static Badge](https://img.shields.io/badge/ML-XGBoost-green)
-![Static Badge](https://img.shields.io/badge/ML-Random%Forest-green)
+![Static Badge](https://img.shields.io/badge/ML-Random%20Forest-green)
 - **Time Series** using 
 ![Static Badge](https://img.shields.io/badge/ML-ARIMA-green)
 ![Static Badge](https://img.shields.io/badge/ML-MLForecast-green)
